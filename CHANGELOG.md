@@ -36,6 +36,7 @@ except that HookConfig is now embedded in Hook.
 subcommand.
 - Agent backend URLs without a port specified will now default to port 8081.
 - Travis encrypted variables have been updated to work with travis-ci.org
+- Made Changelog examples in CONTRIBUTING.md more obvious
 
 ### Fixed
 - Fixed a bug in time.InWindow that in some cases would cause subdued checks to
